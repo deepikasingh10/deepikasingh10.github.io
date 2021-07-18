@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    background-color: #5bccf6;
+    margin: 0px 0px;
+    padding: 30px;
+    font-family: inherit;
+}
+
+.my pic{
+    height: 150px;
+    width: 100%;
+justify-content: center;}
+.thin-black-border{
+    /* border-color: darkred; */
+    /* border-style: solid; */
+    border-radius: 55%;
+    height: 200px;
+    width: 140px;
+}    
+.box{
+    background-color: #fcde67;
+    padding: 30px;
+    font-family: inherit;
+} 
+.footer{
+    background-color:  #5bccf6;;
+    padding: 23px 30px;
+    height: 200px;
+}
